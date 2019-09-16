@@ -3,5 +3,5 @@
 - [Sample Page Two](/sample-02)
 
 #### Section Title
-- [Sample Page Three](/sample-03)
-- [Sample Page Four](/sample-04)
+- [Sample Page Three](/section-title/sample-03)
+- [Sample Page Four](/section-title/sample-04)
