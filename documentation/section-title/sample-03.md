@@ -1,6 +1,6 @@
 ---
 title: Sample Page Three
-slug: /section-title/sample-03
+slug: /sample-03
 ---
 
 This markdown file is called a kitchen sink. It has been copy/pasted from [adamschwartz/github-markdown-kitchen-sink](https://github.com/adamschwartz/github-markdown-kitchen-sink).
