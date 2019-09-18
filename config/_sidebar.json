@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Kibana",
+    "id": 0,
+    "items": [
+      {
+        "name": "Advanced settings",
+        "id": 1,
+        "href": "http://www.elastic.co"
+      },
+      {
+        "name": "Index Patterns (link)",
+        "id": 2,
+        "href": "http://www.elastic.co"
+      },
+      {
+        "name": "Saved Objects",
+        "id": 3,
+        "href": "http://www.elastic.co"
+      },
+      {
+        "name": "Reporting",
+        "id": 4,
+        "href": "http://www.elastic.co"
+      }
+    ]
+  }
+]
