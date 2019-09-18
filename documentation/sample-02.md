@@ -157,21 +157,21 @@ Paragraph:
 
 
 
-This is [an example](http://example.com "Example") link.
+This is [an example](https://example.com "Example") link.
 
-[This link](http://example.com) has no title attr.
+[This link](https://example.com) has no title attr.
 
 This is [an example] [id] reference-style link.
 
-[id]: http://example.com "Optional Title"
+[id]: https://example.com "Optional Title"
 
-    This is [an example](http://example.com "Example") link.
+    This is [an example](https://example.com "Example") link.
 
-    [This link](http://example.com) has no title attr.
+    [This link](https://example.com) has no title attr.
 
     This is [an example] [id] reference-style link.
 
-    [id]: http://example.com "Optional Title"
+    [id]: https://example.com "Optional Title"
 
 
 
@@ -199,6 +199,6 @@ This paragraph has some `code` in it.
 
 
 
-![Alt Text](http://placehold.it/200x50 "Image Title")
+![Alt Text](https://placehold.it/200x50 "Image Title")
 
-    ![Alt Text](http://placehold.it/200x50 "Image Title")
+    ![Alt Text](https://placehold.it/200x50 "Image Title")
